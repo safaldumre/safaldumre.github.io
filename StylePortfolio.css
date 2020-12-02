@@ -149,6 +149,10 @@ footer{
 #subject{
     height:200px;
 }
+#touch{
+    margin-top:60px;
+    font-size: 50px;
+}
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -162,7 +166,7 @@ input[type=text], select, textarea {
   
   /* Style the submit button with a specific background color etc */
   .submit {
-    background-color: #a73907;
+    background-color:none;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -177,7 +181,7 @@ input[type=text], select, textarea {
   
   /* Add a background color and some padding around the form */
   .container {
-    margin-top:40px;
+    margin-top:10px;
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
